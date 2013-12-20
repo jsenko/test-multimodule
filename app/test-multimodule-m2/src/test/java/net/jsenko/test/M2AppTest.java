@@ -28,4 +28,9 @@ public class M2AppTest
     {
         assertTrue( true );
     }
+    
+    public void testApp2()
+    {
+        assertTrue( false );
+    }
 }
